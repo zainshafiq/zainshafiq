@@ -2,7 +2,9 @@
 
 - 🌱 I’m currently learning a Full Stack Web Development course provided by Dr. Angela Yu fron Udemy.
 
-## Checkout my up-to-date portfolio: https://zainshafiq.github.io/my-CV/  
+# Checkout my up-to-date portfolio: https://zainshafiq.github.io/my-CV/
+
+
 
 
 <!---
