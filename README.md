@@ -1,4 +1,4 @@
-## 👋 Hi, I’m @zainshafiq
+### 👋 Hi, I’m @zainshafiq
 
 ### 🌱 I just recently graduated wih a Software Systems Engineering Degree from University of Regina, Saskatchewan CA. Currently going through a Web Development BootCamp provided by Dr. Angela Yu and Udemy.
 
