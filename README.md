@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m @zainshafiq
 
-## 🌱 I’m currently learning a Full Stack Web Development course provided by Dr. Angela Yu fron Udemy.
+## 🌱 I'm Shafiq and I just recently graduated wih a Software Systems Engineering Degree from University of Regina, Saskatchewan CA.
 
 ### Checkout my up-to-date portfolio: https://zainshafiq.github.io/my-CV/
 
