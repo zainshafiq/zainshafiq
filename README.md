@@ -1,8 +1,6 @@
 ### 👋 Hi, I’m @zainshafiq
 
-#### 🌱 I just recently graduated with a Software Systems Engineering Degree from University of Regina, Saskatchewan CA. Currently working as a Junior Front End Developer at REKA, a R&D company based in Malaysia that focuses on delivering digital technologies and automation within organizations.
-
-
+#### 🌱 I'm a Software Systems Engineering Graduate from University of Regina, Saskatchewan CA. Currently working as a Junior Front End Developer at REKA, a R&D company based in Malaysia that focuses on delivering digital technologies and automation within organizations. Besides from taking part in a client-based and micro services project involving several modern software tools but not limited to ReactJS, Javascript and Firebase, I'm also involved in documentation and hi-fi prototyping in some of the company's projects.  
 
 
 <!---
