@@ -1,5 +1,7 @@
 ### 👋 Hi, I’m @zainshafiq
 
+<a href="https://app.daily.dev/zainshafiq"><img style="backgroundColor:'red'; color:''blue'; " src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=hdq" width="400" alt="Shafiq Zainuddin's Dev Card"/></a>
+
 #### I'm a Software Systems Engineering Graduate from University of Regina, Saskatchewan CA 🌱. Currently working as a Junior Front End Developer at REKA, a R&D company based in Malaysia that focuses on delivering digital technologies and automation within organizations. Hence I am: 
 
 #### • Experienced in a front end architecture to support user interface concepts in a clientbased micro services project involving software tools such as ReactJS, Node and Python.
