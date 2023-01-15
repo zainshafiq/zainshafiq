@@ -1,7 +1,10 @@
 ### 👋 Hi, I’m @zainshafiq
 
 <br>
-<a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=pzt" width="350" alt="Shafiq Zainuddin's Dev Card"/></a>
+<a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=pzt" width="300" alt="Shafiq Zainuddin's Dev Card"/></a>
+<br>
+<br>
+<a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=8fc" width="300" alt="Shafiq Zainuddin's Dev Card"/></a>
 <br>
 
 #### I'm a Software Systems Engineering Graduate from University of Regina, Saskatchewan CA 🌱. Currently working as a Junior Front End Developer at REKA Inisiatif, a R&D company based in Malaysia that focuses on delivering digital technologies and automation within organizations. Hence I am: 
