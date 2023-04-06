@@ -10,6 +10,7 @@
 #### • Familiarity with No-SQL databases through Google Firebase, agile development process and version control.
 #### • Conducted UAT Testing with the direct supervisor and senior developers before deployment of code to production.
 #### • Code debugging, lo-fi and hi-fi protoyping and documentation.
+#### • Currently indulging with Jest and Selenium Webdriver testing functionality.
 
 #### Feel free to visit my [LinkedIn](https://www.linkedin.com/in/ishraf-shafiq-zainuddin/) page and say HI👋.
 
