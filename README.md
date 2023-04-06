@@ -9,8 +9,7 @@
 #### • Experienced in a front end architecture to support user interface concepts in a clientbased micro services project involving software tools such as ReactJS, Node and Python.
 #### • Familiarity with No-SQL databases through Google Firebase, agile development process and version control.
 #### • Conducted UAT Testing with the direct supervisor and senior developers before deployment of code to production.
-#### • Code debugging and documentation.
-#### • Experienced with lo-fi and hi-fi protoyping and documentation.
+#### • Code debugging, lo-fi and hi-fi protoyping and documentation.
 
 #### Feel free to visit my [LinkedIn](https://www.linkedin.com/in/ishraf-shafiq-zainuddin/) page and say HI👋.
 
