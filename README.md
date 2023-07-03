@@ -1,12 +1,14 @@
 ### 👋 Hi, I’m @zainshafiq
 
-<br>
-<a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=8fc" width="300" alt="Shafiq Zainuddin's Dev Card"/></a>
-<br>
+<p align="center">
+  <a href="https://app.daily.dev/zainshafiq">
+    <img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=8fc" width="300" alt="Shafiq Zainuddin's Dev Card"/>
+  </a>
+</p>
 
 # Ishraf Shafiq Zainuddin - Software Systems Engineering Graduate and Junior Front End Developer
 
-Welcome to the readme file of Ishraf Shafiq Zainuddin! In this document, you'll learn about my background as a Software Systems Engineering graduate and my role as a Junior Front End Developer at REKA, an R&D company based in Malaysia. Let's dive in!
+Welcome to the readme file about me! In this document, you'll learn about my background as a Software Systems Engineering graduate and my role as a Junior Front End Developer at REKA, an R&D company based in Malaysia. Let's dive in!
 
 ## Background
 
