@@ -6,7 +6,7 @@
 
 <br>
 
-## Ishraf Shafiq Zainuddin - Software Systems Engineering Graduate and Junior Front End Developer
+## Ishraf Shafiq Zainuddin - Software Systems Engineering Graduate and Front End Developer
 
 👋 Hi, I’m @zainshafiq, welcome to the readme file about me! In this document, you'll learn about my background as a Software Systems Engineering graduate and my role as a Junior Front End Developer at REKA, an R&D company based in Malaysia. Let's dive in!
 
