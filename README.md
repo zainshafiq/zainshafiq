@@ -34,10 +34,10 @@ Here are some key points that highlight my skills and experience:
 
 - **Jest and Selenium WebDriver Testing:** Currently, I am exploring Jest and Selenium WebDriver for testing functionality. These tools enable me to automate tests and ensure the reliability and quality of web applications.
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=zainshafiq&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=zainshafiq&theme=radical&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
