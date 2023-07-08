@@ -44,7 +44,7 @@ Here are some key points that highlight my skills and experience:
 
 ## Connect with Me
 
-Feel free to visit my [LinkedIn](https://www.linkedin.com/in/ishraf-shafiq-zainuddin/) page to learn more about my professional background. Don't hesitate to reach out and say hi! 👋
+Feel free to visit any of my social media page to learn more about my professional background. Don't hesitate to reach out and say hi! 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sh4fiqzain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishraf-shafiq-zainuddin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IshrafZainuddin)
 
