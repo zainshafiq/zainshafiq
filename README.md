@@ -1,6 +1,7 @@
 <p align="center">
   <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=zi2" width="300" alt="Shafiq    Zainuddin's Dev Card"/>
   </a>
+  [![](https://visitcount.itsvg.in/api?id=zainshafiq&icon=0&color=0)](https://visitcount.itsvg.in)
 </p>
 
 <br>
@@ -45,9 +46,6 @@ Here are some key points that highlight my skills and experience:
 Feel free to visit my [LinkedIn](https://www.linkedin.com/in/ishraf-shafiq-zainuddin/) page to learn more about my professional background. Don't hesitate to reach out and say hi! 👋
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sh4fiqzain) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishraf-shafiq-zainuddin) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/IshrafZainuddin)
-
----
-[![](https://visitcount.itsvg.in/api?id=zainshafiq&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
