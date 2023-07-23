@@ -1,17 +1,9 @@
 <p align="center">
-  <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=46v" width="25" alt="Shafiq Zainuddin's Dev Card"/>
-  </a>
   <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=46v" width="50" alt="Shafiq Zainuddin's Dev Card"/>
-  </a>
-  <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=46v" width="75" alt="Shafiq Zainuddin's Dev Card"/>
   </a>
   <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=46v" width="100" alt="Shafiq Zainuddin's Dev Card"/>
   </a>
-  <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=shz" width="125" alt="Shafiq Zainuddin's Dev Card"/>
-  </a>
   <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=ktc" width="150" alt="Shafiq Zainuddin's Dev Card"/>
-  </a>
-  <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=ktc" width="175" alt="Shafiq Zainuddin's Dev Card"/>
   </a>
   <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=ktc" width="200" alt="Shafiq Zainuddin's Dev Card"/>
   </a>
