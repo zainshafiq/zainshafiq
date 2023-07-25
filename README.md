@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=cjc" width="300" alt="Shafiq Zainuddin's Dev Card"/></a>
-  </a>
+  <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/b9e6c0aa829d4a668494363a2c111e69.png?r=2e0" width="250" alt="Shafiq Zainuddin's Dev Card"/></a>
 </p>
 
 <br>
