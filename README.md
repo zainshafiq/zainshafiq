@@ -38,7 +38,7 @@ I am a Software Systems Engineering graduate from the University of Regina in Sa
 ## Skills and Experiences
 
 <details>
-<summary> ❤️ Click here to see my skills and experiences! </summary>
+<summary> ☰ Click here to see my skills and experiences! 🌵 </summary>
 <br>
 Here are some key points that highlight my skills and experience:
 
@@ -58,7 +58,7 @@ Here are some key points that highlight my skills and experience:
 ## 📊 GitHub Stats
 
 <details>
-<summary> ⭐ Click here to see my Github Stats! </summary>
+<summary> ☰ Click here to see my Github Stats! 🍄 </summary>
 <br>
   
 ![](https://github-readme-stats.vercel.app/api?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
