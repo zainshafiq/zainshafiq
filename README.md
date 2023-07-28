@@ -12,6 +12,11 @@
 
 ## Background
 
+<details>
+<summary>this text will show</summary>
+this text will be hidden until you click the above text!
+</details>
+
 I am a Software Systems Engineering graduate from the University of Regina in Saskatchewan, Canada. Currently, I am working at REKA, where our primary focus is delivering digital technologies and automation solutions to organizations.
 
 ## 💻 Tech Stack
