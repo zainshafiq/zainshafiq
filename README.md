@@ -39,7 +39,7 @@ I am a Software Systems Engineering graduate from the University of Regina in Sa
 
 <details>
 <summary> Click here to see my skills and experiences! </summary>
-  
+<br>
 Here are some key points that highlight my skills and experience:
 
 - **Front End Architecture:** I have hands-on experience working with front end architectures to support user interface concepts in client-based microservices projects. I am well-versed in using popular tools and technologies such as ReactJS, Node, and Python to build robust and scalable web applications.
@@ -59,6 +59,7 @@ Here are some key points that highlight my skills and experience:
 
 <details>
 <summary> Click here to see my Github Stats! </summary>
+  
 ![](https://github-readme-stats.vercel.app/api?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zainshafiq&theme=radical&hide_border=false)<br/>
