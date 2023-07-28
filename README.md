@@ -35,7 +35,7 @@ I am a Software Systems Engineering graduate from the University of Regina in Sa
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Skills and Experiences
+## 🌱 Skills and Experiences
 
 <details>
 <summary> ☰ Click here to see my skills and experiences! 🌵 </summary>
@@ -55,7 +55,7 @@ Here are some key points that highlight my skills and experience:
 - **Jest and Selenium WebDriver Testing:** Currently, I am exploring Jest and Selenium WebDriver for testing functionality. These tools enable me to automate tests and ensure the reliability and quality of web applications.
 </details>
 
-## 📊 GitHub Stats
+## 🎢 GitHub Stats
 
 <details>
 <summary> ☰ Click here to see my Github Stats! 🍄 </summary>
@@ -66,7 +66,7 @@ Here are some key points that highlight my skills and experience:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 </details>
 
-## Connect with Me
+## 📢 Connect with Me
 
 Feel free to visit any of my social media page to learn more about my professional background. Don't hesitate to reach out and say hi! 👋
 
