@@ -10,7 +10,7 @@
 
 Hi 👋, I’m @zainshafiq, welcome to the readme file about me! In this document, you'll learn about my background as a Software Systems Engineering graduate and my role as a Junior Front End Developer at REKA, an R&D company based in Malaysia.
 
-## :trollface: Background
+## 🙀 Background
 
 I am a Software Systems Engineering graduate from the University of Regina in Saskatchewan, Canada. Currently, I am working at REKA, where our primary focus is delivering digital technologies and automation solutions to organizations.
 
