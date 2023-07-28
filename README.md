@@ -40,14 +40,10 @@ I am a Software Systems Engineering graduate from the University of Regina in Sa
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-<details>
-<summary> this text will show</summary>
-this text will be hidden until you click the above text!
-</details>
+## Skills and Experiences
 
 <details>
-## Skills and Experiences
-</details>
+<summary> Click here to see my skills and experiences! </summary>
 Here are some key points that highlight my skills and experience:
 
 - **Front End Architecture:** I have hands-on experience working with front end architectures to support user interface concepts in client-based microservices projects. I am well-versed in using popular tools and technologies such as ReactJS, Node, and Python to build robust and scalable web applications.
@@ -61,6 +57,7 @@ Here are some key points that highlight my skills and experience:
 - **Code Debugging, Prototyping, and Documentation:** I possess skills in code debugging, enabling me to identify and fix issues within the codebase. I am proficient in both low-fidelity (lo-fi) and high-fidelity (hi-fi) prototyping techniques, allowing for effective visualization and refinement of user interfaces. Furthermore, I prioritize clear and concise documentation, ensuring that vital information is captured and shared effectively.
 
 - **Jest and Selenium WebDriver Testing:** Currently, I am exploring Jest and Selenium WebDriver for testing functionality. These tools enable me to automate tests and ensure the reliability and quality of web applications.
+</details>
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
