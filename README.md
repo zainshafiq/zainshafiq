@@ -40,8 +40,14 @@ I am a Software Systems Engineering graduate from the University of Regina in Sa
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
-## Skills and Experiences
+<details>
+<summary> this text will show</summary>
+this text will be hidden until you click the above text!
+</details>
 
+<details>
+## Skills and Experiences
+</details>
 Here are some key points that highlight my skills and experience:
 
 - **Front End Architecture:** I have hands-on experience working with front end architectures to support user interface concepts in client-based microservices projects. I am well-versed in using popular tools and technologies such as ReactJS, Node, and Python to build robust and scalable web applications.
