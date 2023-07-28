@@ -59,7 +59,7 @@ Here are some key points that highlight my skills and experience:
 
 <details>
 <summary> Click here to see my Github Stats! </summary>
-  
+<br>
 ![](https://github-readme-stats.vercel.app/api?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zainshafiq&theme=radical&hide_border=false)<br/>
