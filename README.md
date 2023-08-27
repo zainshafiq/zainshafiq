@@ -77,7 +77,7 @@ Feel free to visit any of my social media page to learn more about my profession
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<!-- This is for documentation stuffs and all the links or web apps I used to help me construct this readme -->
+<!-- This is for documentation stuffs and all the links or web apps I used to help me construct this -->
 
 <!---
 zainshafiq/zainshafiq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
