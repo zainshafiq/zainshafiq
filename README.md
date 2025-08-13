@@ -37,10 +37,6 @@ My current role focuses on ensuring software quality through manual testing, tes
 
 ## 🌱 Skills and Experiences  
 
-<details>  
-<summary> ☰ Click here to see my skills and experiences! 🌵 </summary>  
-<br>  
-
 Here are some key points that highlight my skills and experience:  
 
 - **Software Testing & Quality Assurance:**  
@@ -61,24 +57,25 @@ Here are some key points that highlight my skills and experience:
 
 - **Databases & Agile Development:**  
   Familiar with **NoSQL** databases such as **Google Firebase**. Experienced working in **Agile/Scrum** environments, following iterative development.
-</details>
 
-## 🎢 GitHub Stats
-
-<details>
-<summary> ☰ Click here to see my Github Stats! 🍄 </summary>
-<br>
+## 🍄 GitHub Stats
   
+<!-- This is a hidden comment in Markdown 
 ![](https://github-readme-stats.vercel.app/api?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zainshafiq&theme=radical&hide_border=false)<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</details>
+-->
+![](https://github-readme-stats.vercel.app/api?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+
+![](https://nirzak-streak-stats.vercel.app/?user=zainshafiq&theme=radical&hideall_commits=true&count_border=false)<br/>
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 📢 Connect with Me
 
-Feel free to visit any of my social media page to learn more about my professional background. Don't hesitate to reach out and say hi! 👋
+Feel free to visit my social media page to learn more about my professional background. Don't hesitate to reach out and say hi! 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishraf-shafiq-zainuddin) 
 
