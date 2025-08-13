@@ -6,8 +6,6 @@
 
 ## Ishraf Shafiq Zainuddin - a Software Systems Engineering Graduate, an ex-Frontend Developer and a Software Test Engineer 🛠️
 
-[![](https://visitcount.itsvg.in/api?id=zainshafiq&icon=0&color=0)](https://visitcount.itsvg.in)
-
 Hi 👋, I’m @zainshafiq, welcome to my GitHub profile README!
 Here, you’ll find details about my background, career, and current learning journey in software testing and automation.
 
