@@ -15,13 +15,14 @@ Here, you’ll find details about my background, career, and current learning jo
 
 I hold a Bachelor’s degree in Software Systems Engineering from the University of Regina, Saskatchewan, Canada.
 
-I am currently working as a Software Test Engineer at a multinational company (MNC) based in Kuala Lumpur, Malaysia. Before transitioning into software testing, I worked as a Front-End Developer, building and maintaining web interfaces using React and Node.JS.
+I am currently working as a Software Test Engineer at a multinational company (MNC) based in Kuala Lumpur, Malaysia. Before transitioning into software testing, I worked as a Front-End Developer, building and maintaining web interfaces using React and Node.js.
 
 My current role focuses on ensuring software quality through manual testing, test planning, defect reporting, and applying industry best practices in software quality assurance. I work closely with developers, analysts, and stakeholders to deliver robust and reliable solutions.
 
 ## 💻 Tech Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
