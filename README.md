@@ -4,7 +4,7 @@
 
 <br>
 
-## Ishraf Shafiq Zainuddin - a Software Systems Engineering Graduate, an ex-Frontend Developer and a Current Software Test Engineer 🛠️
+## Ishraf Shafiq Zainuddin - a Software Systems Engineering Graduate, an ex-Frontend Developer and a Software Test Engineer 🛠️
 
 [![](https://visitcount.itsvg.in/api?id=zainshafiq&icon=0&color=0)](https://visitcount.itsvg.in)
 
