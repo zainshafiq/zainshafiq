@@ -60,7 +60,8 @@ Here are some key points that highlight my skills and experience:
   Skilled in **Azure DevOps** and **Spiceworks** for ticket tracking, incident management, and Scrum/Kanban board management to coordinate sprints and backlog items effectively.  
 
 - **Databases & Agile Development:**  
-  Familiar with **NoSQL** databases such as **Google Firebase**. Experienced working in **Agile/Scrum** environments, following iterative developmen
+  Familiar with **NoSQL** databases such as **Google Firebase**. Experienced working in **Agile/Scrum** environments, following iterative development.
+</details>
 
 ## 🎢 GitHub Stats
 
