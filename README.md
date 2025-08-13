@@ -1,13 +1,17 @@
 <p align="center">
-  <a href="https://app.daily.dev/zainshafiq"><img src="https://github.com/zainshafiq/hello-world/blob/master/dailydev_zainshafiq.png" width="300" alt="Shafiq Zainuddin's Dev Card"/></a>
+  <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/v2/xwEvzaEa6fC0OL7CEtLfz.png?r=krk&type=default" width="375" alt="Shafiq Zainuddin's Dev Card"/></a>
 </p>
 
-<br>
-
-## Ishraf Shafiq Zainuddin - a Software Systems Engineering Graduate, an ex-Frontend Developer and a Software Test Engineer 🛠️
+### Ishraf Shafiq Zainuddin - a Software Systems Engineering Graduate, an ex-Frontend Developer and a Software Test Engineer 🛠️
 
 Hi 👋, I’m @zainshafiq, welcome to my GitHub profile README!
 Here, you’ll find details about my background, career, and current learning journey in software testing and automation.
+
+## 📢 Connect with Me
+
+Feel free to visit my social media page to learn more about my professional background. Don't hesitate to reach out and say hi! 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishraf-shafiq-zainuddin)
 
 ## ⛄ Background
 
@@ -72,12 +76,6 @@ Here are some key points that highlight my skills and experience:
 ![](https://nirzak-streak-stats.vercel.app/?user=zainshafiq&theme=radical&hideall_commits=true&count_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 📢 Connect with Me
-
-Feel free to visit my social media page to learn more about my professional background. Don't hesitate to reach out and say hi! 👋
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishraf-shafiq-zainuddin) 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
