@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/v2/xwEvzaEa6fC0OL7CEtLfz.png?r=krk&type=default" width="375" alt="Shafiq Zainuddin's Dev Card"/></a>
+  <a href="https://app.daily.dev/zainshafiq"><img src="https://api.daily.dev/devcards/v2/xwEvzaEa6fC0OL7CEtLfz.png?type=default&r=uva" width="356" alt="Ishraf Shafiq Zainuddin's Dev Card"/></a>
 </p>
 
 ### Ishraf Shafiq Zainuddin - a Software Systems Engineering Graduate, an ex-Frontend Developer and a Software Test Engineer 🛠️
