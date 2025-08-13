@@ -4,21 +4,24 @@
 
 <br>
 
-## Ishraf Shafiq Zainuddin - Software Systems Engineering Graduate and Front End Developer 🙀
+## Ishraf Shafiq Zainuddin - a Software Systems Engineering Graduate, an ex-Frontend Developer and a Current Software Test Engineer 🛠️
 
 [![](https://visitcount.itsvg.in/api?id=zainshafiq&icon=0&color=0)](https://visitcount.itsvg.in)
 
-Hi 👋, I’m @zainshafiq, welcome to the readme file about me! In this document, you'll learn about my background as a Software Systems Engineering graduate and my role as a Junior Front End Developer at REKA, an R&D company based in Malaysia.
+Hi 👋, I’m @zainshafiq, welcome to my GitHub profile README!
+Here, you’ll find details about my background, career, and current learning journey in software testing and automation.
 
 ## ⛄ Background
 
-I am a Software Systems Engineering graduate from the University of Regina in Saskatchewan, Canada. Currently, I am working at REKA, where our primary focus is delivering digital technologies and automation solutions to organizations.
+I hold a Bachelor’s degree in Software Systems Engineering from the University of Regina, Saskatchewan, Canada.
+
+I am currently working as a Software Test Engineer at a multinational company (MNC) based in Kuala Lumpur, Malaysia. Before transitioning into software testing, I worked as a Front-End Developer, building and maintaining web interfaces using React and Node.JS.
+
+My current role focuses on ensuring software quality through manual testing, test planning, defect reporting, and applying industry best practices in software quality assurance. I work closely with developers, analysts, and stakeholders to deliver robust and reliable solutions.
 
 ## 💻 Tech Stack
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -26,30 +29,39 @@ I am a Software Systems Engineering graduate from the University of Regina in Sa
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Datadog](https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## 🌱 Skills and Experiences
+## 🌱 Skills and Experiences  
 
-<details>
-<summary> ☰ Click here to see my skills and experiences! 🌵 </summary>
-<br>
-Here are some key points that highlight my skills and experience:
+<details>  
+<summary> ☰ Click here to see my skills and experiences! 🌵 </summary>  
+<br>  
 
-- **Front End Architecture:** I have hands-on experience working with front end architectures to support user interface concepts in client-based microservices projects. I am well-versed in using popular tools and technologies such as ReactJS, Node, and Python to build robust and scalable web applications.
+Here are some key points that highlight my skills and experience:  
 
-- **No-SQL Databases and Agile Development:** I am familiar with No-SQL databases, specifically Google Firebase. I have experience working with agile development methodologies, allowing for iterative and efficient development cycles. Additionally, I am well-versed in version control practices, ensuring code quality and collaboration among team members.
+- **Software Testing & Quality Assurance:**  
+  Experienced in **manual testing**, including preparation and execution of **User Acceptance Testing (UAT)** and **System Integration Testing (SIT)** test cases. Skilled in identifying defects, ensuring comprehensive coverage, and validating software functionality against requirements.  
 
-- **Test Case Preparation:** Taking charge of preparing User Acceptance Testing (UAT) and System Integration Testing (SIT) test cases is one of my responsibilities. I have a keen eye for detail and ensure comprehensive test coverage to validate the software's functionality and meet the requirements.
+- **Automation Testing:**  
+  Familiar with **Selenium WebDriver (Python)** for web automation.  
+  Currently practising **Selenium WebDriver with Java** and **TestNG** to develop maintainable and scalable automated test scripts, with plans to integrate into **Jenkins** for continuous integration.  
 
-- **Testing and Code Deployment:** I conduct initial tests in collaboration with my direct supervisor and senior developers before deploying code to production. This helps identify and resolve any issues or bugs, ensuring a seamless and error-free deployment process.
+- **Front-End Development (Past Experience):**  
+  Former **Front-End Developer** with hands-on experience building and maintaining web applications using **ReactJS**, **Node.js**, and **Python**. Familiar with microservices-based architectures and UI/UX design principles.  
 
-- **Code Debugging, Prototyping, and Documentation:** I possess skills in code debugging, enabling me to identify and fix issues within the codebase. I am proficient in both low-fidelity (lo-fi) and high-fidelity (hi-fi) prototyping techniques, allowing for effective visualization and refinement of user interfaces. Furthermore, I prioritize clear and concise documentation, ensuring that vital information is captured and shared effectively.
+- **Monitoring & Observability:**  
+  Experienced in using **Datadog** for application and infrastructure monitoring, log management, and performance tracking.  
 
-- **Jest and Selenium WebDriver Testing:** Currently, I am exploring Jest and Selenium WebDriver for testing functionality. These tools enable me to automate tests and ensure the reliability and quality of web applications.
-</details>
+- **Project & Ticket Management:**  
+  Skilled in **Azure DevOps** and **Spiceworks** for ticket tracking, incident management, and Scrum/Kanban board management to coordinate sprints and backlog items effectively.  
+
+- **Databases & Agile Development:**  
+  Familiar with **NoSQL** databases such as **Google Firebase**. Experienced working in **Agile/Scrum** environments, following iterative developmen
 
 ## 🎢 GitHub Stats
 
