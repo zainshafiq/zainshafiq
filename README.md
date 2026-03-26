@@ -63,7 +63,7 @@ Here are some key points that highlight my skills and experience:
 - **Databases & Agile Development:**  
   Familiar with **NoSQL** databases such as **Google Firebase**. Experienced working in **Agile/Scrum** environments, following iterative development.
 
-## 🍄 GitHub Stats
+<!-- ## 🍄 GitHub Stats -->
   
 <!-- This is a hidden comment in Markdown 
 ![](https://github-readme-stats.vercel.app/api?username=zainshafiq&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br>
