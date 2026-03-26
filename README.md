@@ -18,7 +18,7 @@ Feel free to visit my social media page to learn more about my professional back
   <a href="https://linkedin.com/in/ishraf-shafiq-zainuddin">
     <img 
       src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" 
-      style="height:40px; border-radius:10px;"
+      style="height:40px; border-radius:3px;"
     >
   </a>
 </p>
