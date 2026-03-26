@@ -11,7 +11,12 @@ Here, you’ll find details about my background, career, and current learning jo
 
 Feel free to visit my social media page to learn more about my professional background. Don't hesitate to reach out and say hi! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishraf-shafiq-zainuddin)
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ishraf-shafiq-zainuddin)
+-->
+
+<a href="https://linkedin.com/in/ishraf-shafiq-zainuddin">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" height="40">
+</a>
 
 ## ⛄ Background
 
